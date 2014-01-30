@@ -1,0 +1,1 @@
+SS kimstroem's "maiden voyage" on github. That is, attempt at figuring out how it works.
