@@ -163,8 +163,6 @@
 			position: absolute;
 			top: 75%;
 			background-color: green;
-			background-image: url('grass.png');
-			
 		}
 			#ground:before {
 				height: 30px;
