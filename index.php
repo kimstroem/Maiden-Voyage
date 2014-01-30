@@ -105,14 +105,17 @@
 			margin-left: -25%;
 		}
 
-		#rainbow div {
+		#rainbow .rainbow div, #rainbow > div {
+				position: absolute;
+				border-radius: 100%;
+		}
+
+		#rainbow .rainbow div {
 				height: 96%;
 				width: 96%;
-				position: absolute;
 				top: 2%;
 				left: 2%;
 
-				border-radius: 100%;
 		}
 			.rainbow {
 				-webkit-animation: shimmer 4s linear infinite; 
@@ -123,8 +126,7 @@
 				height: 100%;
 				top: 0;
 				left: 0;
-					-webkit-animation-delay: -4000ms;
-
+				-webkit-animation-delay: -4000ms;
 			}
 				#rainbow > div > div {
 					-webkit-animation-delay: -3750ms;
