@@ -34,6 +34,8 @@ Webbradiolyssnandet i målgrupper | 31                    | &nbsp;              
 *None*                           | &nbsp;                | &nbsp;                                                     | &nbsp; | &nbsp;
 &nbsp;                           | desiredDate           | Visat Datum| Datum som syns i samband med rapporten. OBS! Det är fältet "Publish At" ovan som bestämmer när det publiceras. | &nbsp; 
 
+---
+
 **ORVESTO**
 
  Tab | machine_name | name | description | obligatory
@@ -49,6 +51,8 @@ Innehåll | 25                  | &nbsp;                                        
 *None*   | &nbsp;              | &nbsp;                                                        | &nbsp; | &nbsp;
 &nbsp;   | desiredDate         | Visat Datum                                                   | Datum som syns i samband med rapporten. OBS! Det är fältet "Publish At" ovan som bestämmer när det publiceras. | &nbsp;
 
+---
+
 **Paper**
 
  Tab | machine_name | name | description | obligatory
@@ -63,6 +67,8 @@ Innehåll | 23
 &nbsp;   | &nbsp;              | &nbsp;                     | &nbsp; | &nbsp;
 *None*   | &nbsp;              | &nbsp;                     | &nbsp; | &nbsp;
 &nbsp;   | desiredDate         | Visat Datum                | Datum som syns i samband med rapporten. OBS! Det är fältet "Publish At" ovan som bestämmer när det publiceras. | &nbsp;
+
+---
 
 **Väljarbarometer**
 
@@ -81,7 +87,8 @@ Importdata | 43          | &nbsp;                          | &nbsp; | &nbsp;
 *None*     | &nbsp;      | &nbsp;                          | &nbsp; | &nbsp;
 &nbsp;     | desiredDate | Visat Datum                     | &nbsp; | &nbsp;
 
-\n \n
+---
+
 **Investigation**
 
 Tab | machine_name | name | description | obligatory
