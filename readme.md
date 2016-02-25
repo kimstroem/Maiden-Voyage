@@ -13,7 +13,7 @@ Innehåll                         | 28                    | &nbsp;              
 &nbsp;                           | bodyText              | Fakta om undersökningen                                    | Tex: Radiolyssnadet under perioden 19/1 - 29/3 2009 (10 veckor) för riket och 3/10 - 14/12, 19/1-29/3 2009 för lokala områden (19 veckor) | &nbsp;
 &nbsp;                           | &nbsp;                | &nbsp;                                                     | &nbsp; | &nbsp;
 Rapportsida                      | 29                    | &nbsp;                                                     | &nbsp; | &nbsp;
-&nbsp;                           | period                | Period                                                     | Tex: Radiolyssnadet under perioden 19/1 - 29/3 2009 (10 veckor) för riket och 3/10 - 14/12, 19/1-29/3 2009 för lokala områden (19 veckor) | true
+&nbsp;                           | period                | Period                                                     | Tex: Radiolyssnadet under perioden 19/1 - 29/3 2009 (10 veckor) för riket och 3/10 - 14/12, 19/1-29/3 2009 för lokala områden (19 veckor) | yes
 &nbsp;                           | reachImage            | Bild, räckvidd i procent (HN-P)                            | &nbsp; | &nbsp;
 &nbsp;                           | timeImage             | Bild, Genomsnittlig lyssnartid i minuter (GL)              | &nbsp; | &nbsp;
 &nbsp;                           | listenerTimeImage     | Bild: Lyssnarnas genomsnittliga lyssnartid i minuter (LGL) | &nbsp; | &nbsp;
@@ -32,13 +32,13 @@ Webbradiolyssnandet i målgrupper | 31                    | &nbsp;              
 &nbsp;                           | nextPublishDate       | Nästa rapport publiceras                                   | &nbsp; | &nbsp;
 &nbsp;                           | &nbsp;                | &nbsp;                                                     | &nbsp; | &nbsp;
 *None*                           | &nbsp;                | &nbsp;                                                     | &nbsp; | &nbsp;
-&nbsp;                           | desiredDate           | Visat Datum| Datum som syns i samband med rapporten. OBS! Det är fältet "Publish At" ovan som bestämmer när det publiceras. | &nbsp; | &nbsp;
+&nbsp;                           | desiredDate           | Visat Datum| Datum som syns i samband med rapporten. OBS! Det är fältet "Publish At" ovan som bestämmer när det publiceras. | &nbsp; 
 
 **ORVESTO**
 
  Tab | machine_name | name | description | obligatory
 ---|---|---|---|---
-Innehåll | 25 |                | &nbsp;                                                        | &nbsp; | &nbsp;
+Innehåll | 25                  | &nbsp;                                                        | &nbsp; | &nbsp;
 &nbsp;   | totalReport         | Bifoga fil (totalrapport ink pressmeddelande, 1000-tal och %) | Tex ORVESTO Konsument 2009:1 (Total)      | &nbsp;
 &nbsp;   | reachFile           | Bifoga fil för procent (%)                                    | Tex ORVESTO® Konsument 2009:1 Procent (%) | &nbsp;  
 &nbsp;   | editionAndReachFile | Bifoga fil för uppräknade tal (1000-tal)                      | ORVESTO® Konsument 2009:1 Uppräknade tal  | &nbsp;
