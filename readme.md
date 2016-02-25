@@ -81,6 +81,7 @@ Importdata | 43          | &nbsp;                          | &nbsp; | &nbsp;
 *None*     | &nbsp;      | &nbsp;                          | &nbsp; | &nbsp;
 &nbsp;     | desiredDate | Visat Datum                     | &nbsp; | &nbsp;
 
+\n \n
 **Investigation**
 
 Tab | machine_name | name | description | obligatory
